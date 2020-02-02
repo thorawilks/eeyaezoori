@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eefiegaeph.mannheim-lacrosse.de/sitemap.xml
